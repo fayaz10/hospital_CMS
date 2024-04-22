@@ -1,0 +1,9 @@
+diff a/composer.json b/composer.json	(rejected hunks)
+@@ -12,7 +12,6 @@
+         "fideloper/proxy": "^4.0",
+         "laravel/framework": "5.7.*",
+         "laravel/tinker": "^1.0",
+-        "zizaco/entrust": "5.2.x-dev"
+         "zizaco/entrust": "^1.9"
+     },
+     "require-dev": {
